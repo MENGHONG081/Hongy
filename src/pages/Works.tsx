@@ -79,7 +79,7 @@ const Works = () => {
                   <div className="absolute -bottom-16 left-1/2 -translate-x-1/2">
                     <div className="w-32 h-32 rounded-full border-4 border-white overflow-hidden shadow-xl">
                       <img 
-                        src="src/assets/Gemini_Generated_Image_s5xxo9s5xxo9s5xx.png"
+                        src="Gemini_Generated_Image_s5xxo9s5xxo9s5xx.png"
                         alt="YAUN MENGHONG"
                         className="w-full h-full object-cover"
                       />

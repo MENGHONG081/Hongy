@@ -83,7 +83,7 @@ const Home = ({ isAuthenticated, onLogin }: HomeProps) => {
           <motion.div variants={fadeInUp} className="mb-10 relative inline-block">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full blur-xl opacity-30 animate-pulse" />
             <img
-              src="src/assets/Gemini_Generated_Image_59qc7z59qc7z59qc.png" // adjust path if needed (public folder in Vite)
+              src="/Gemini_Generated_Image_59qc7z59qc7z59qc.png" // adjust path if needed (public folder in Vite)
               alt="Hongy"
               className="w-60 h-60 mx-auto rounded-full border-4 border-white shadow-2xl object-cover z-10 relative ring-2 ring-purple-400/50"
             />

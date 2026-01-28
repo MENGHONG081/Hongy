@@ -8,7 +8,7 @@ const ProfileCard = () => {
       <CardContent className="p-8">
         <div className="flex flex-col md:flex-row items-center md:items-start space-y-6 md:space-y-0 md:space-x-8">
           <img
-            src="src/assets/c4c578df-2638-4e7f-a9a9-56e8fda90341.png"
+            src="/c4c578df-2638-4e7f-a9a9-56e8fda90341.png"
             alt="YAUN MENGHONG Profile"
             className="w-48 h-48 rounded-full object-cover border-4 border-white shadow-lg"
           />
